@@ -1,0 +1,55 @@
+.content    {width:80%;margin:auto;margin-bottom:5%;overflow:auto;background-color:white;}
+
+.BigboyBox  {float:left;overflow:auto;margin:1.5%;width:95%;padding:1%;}
+.smollBox   {float:left;overflow:auto;margin:2.5%;width:45%;}
+.SideText   {float:left;overflow:auto;margin:2.5%;width:65%;}
+img         {float:left;overflow:auto;margin:0;width:30%;padding:0;height:auto;}
+
+.header     {margin:0;padding:5px;font-size:150%;color:black;overflow:auto;}
+.text       {margin:0;padding:2.5%;font-size:85%;text-align:left;float:left;overflow:auto;}
+
+.box:hover  {cursor:hand;cursor:pointer;opacity:.9;}
+
+.bigboyHeader{Text-decoration:underline }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
