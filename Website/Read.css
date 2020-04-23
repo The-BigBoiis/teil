@@ -1,9 +1,9 @@
 .content    {width:60%;max-width:720px;margin:auto;margin-bottom:5%;overflow:auto;background-color:white;}
-div.text    {width:100%;padding:0;margin:0;margin-bottom:5%;overflow:auto}
+div.text    {width:100%;padding:0;margin:5% 0;overflow:auto}
 
 .header     {margin:0;padding:5px;font-size:150%;color:black;overflow:auto;}
 
 div.spoken  {margin:5%;padding:2.5%;}
-p.text      {width:85%;margin:5%;padding:2.5%;font-size:95%;text-align:justify;float:left;overflow:auto;line-height:1.5em;}
-p.speaker   {width: 15%;padding:0;margin:0;font-size:95%;text-align:justify;float:left;overflow:auto;line-height:1.5em;}
-p.speach    {width: 85%;padding:0;margin:0;font-size:95%;text-align:justify;float:left;overflow:auto;line-height:1.5em;}
+p.text      {width:85%;margin:1.5% 5%;padding:2.5%;font-size:95%;text-align:justify;float:left;overflow:auto;line-height:1.5em;}
+p.speaker   {width: 20%;padding:0;margin:1% 0;font-size:95%;text-align:justify;float:left;overflow:auto;line-height:1.5em;}
+p.speach    {width: 80%;padding:0;margin:1% 0;font-size:95%;text-align:justify;float:left;overflow:auto;line-height:1.5em;}
