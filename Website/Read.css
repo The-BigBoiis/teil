@@ -4,9 +4,9 @@ div.text    {width:100%;padding:0;margin:5% 0;overflow:auto}
 .header     {margin:0;padding:5px;font-size:150%;color:black;overflow:auto;}
 
 div.spoken  {margin:5%;padding:2.5%;}
-p.text      {width:85%;padding:2.5%;margin:1.5% 5%;font-size:95%;text-align:left;float:left;overflow:auto;line-height:2.5em;
-	font-family:Calibri;letter-spacing:0.3em;word-spacing:0.4em;}
-p.speaker   {width: 20%;padding:0;margin:1% 0;font-size:95%;text-align:justify;float:left;overflow:auto;line-height:2em;}
-	font-family:Calibri;letter-spacing:0.3em;word-spacing:0.4em;}
-p.speach    {width: 80%;padding:0;margin:1% 0;font-size:95%;text-align:justify;float:left;overflow:auto;line-height:2em;}
-	font-family:Calibri;letter-spacing:0.3em;word-spacing:0.4em;}
+p.text      {width:85%;padding:2.5%;margin:1.5% 5%;font-size:110%;text-align:left;float:left;overflow:auto;line-height:2.5em;
+	font-family:Calibri;letter-spacing:0.25em;word-spacing:0.45em;}
+p.speaker   {width: 20%;padding:0;margin:1% 0;font-size:110%;text-align:justify;float:left;overflow:auto;line-height:2em;}
+	font-family:Calibri;letter-spacing:0.25em;word-spacing:0.45em;}
+p.speach    {width: 80%;padding:0;margin:1% 0;font-size:110%;text-align:justify;float:left;overflow:auto;line-height:2em;}
+	font-family:Calibri;letter-spacing:0.25em;word-spacing:0.45em;}
